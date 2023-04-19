@@ -1,0 +1,18 @@
+
+body{
+    background-color: black;
+    color: white;
+    text-align: center; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    font-size :xx-large;
+    font-weight: 400;
+}
+.mrg_top{
+    margin-top: 5%;
+}
+.span{
+    font-size: x-large;
+    
+}
